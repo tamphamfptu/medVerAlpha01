@@ -1,0 +1,90 @@
+{
+  "createdAt": "2023-03-28T10:33:40.624Z",
+  "desc": "Meditation music",
+  "emotion": "HAPPY",
+  "id": 3,
+  "image": "https://i.ytimg.com/vi/DZpPhCGoPLg/maxresdefault.jpg",
+  "lastUpdatedAt": "2023-03-29T15:14:28.202Z",
+  "name": "Ambient",
+  "playlist": [
+    {
+      "author": [],
+      "authorId": "0dc689f7-984a-4f4e-9475-f27f720b23d9",
+      "createdAt": "2023-01-17T08:51:09.237Z",
+      "description": "nhạc hay vcl",
+      "id": 2,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/a/ae/The_Marshall_Mathers_LP.jpg",
+      "isPublic": "PUBLIC",
+      "lastUpdatedAt": "2023-07-23T08:32:15.193Z",
+      "name": "The Marshall",
+      "playlistType": "ALBUM",
+      "status": "ACTIVE"
+    },
+    {
+      "author": [],
+      "authorId": "0dc689f7-984a-4f4e-9475-f27f720b23d9",
+      "createdAt": "2023-01-17T08:54:11.838Z",
+      "description": "nhạc hay vcl luôn",
+      "id": 3,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/6/62/Eminem_-_Kamikaze.jpg",
+      "isPublic": "PUBLIC",
+      "lastUpdatedAt": "2023-07-23T08:32:15.611Z",
+      "name": "Kamikaze",
+      "playlistType": "ALBUM",
+      "status": "ACTIVE"
+    },
+    {
+      "author": [],
+      "authorId": "0dc689f7-984a-4f4e-9475-f27f720b23d9",
+      "createdAt": "2023-02-02T11:41:45.078Z",
+      "description": "hay quá bạn ei",
+      "id": 4,
+      "imageUrl": "https://i.scdn.co/image/ab67616d00001e022f44aec83b20e40f3baef73c",
+      "isPublic": "PUBLIC",
+      "lastUpdatedAt": "2023-07-23T08:32:16.027Z",
+      "name": "Music to Be Murdered By",
+      "playlistType": "ALBUM",
+      "status": "ACTIVE"
+    },
+    {
+      "author": [],
+      "authorId": "0dc689f7-984a-4f4e-9475-f27f720b23d9",
+      "createdAt": "2023-02-10T07:22:59.775Z",
+      "description": "nhạc hay vcl luôn",
+      "id": 5,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/6/60/Recovery_Album_Cover.jpg",
+      "isPublic": "PUBLIC",
+      "lastUpdatedAt": "2023-07-23T08:32:16.446Z",
+      "name": "Recovery",
+      "playlistType": "ALBUM",
+      "status": "ACTIVE"
+    },
+    {
+      "author": [],
+      "authorId": "0dc689f7-984a-4f4e-9475-f27f720b23d9",
+      "createdAt": "2023-02-13T20:58:16.260Z",
+      "description": "nhạc hay vcl luôn",
+      "id": 6,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/a/ae/The_Marshall_Mathers_LP.jpg",
+      "isPublic": "PUBLIC",
+      "lastUpdatedAt": "2023-07-23T08:32:16.861Z",
+      "name": "The Marshall Mathers LP",
+      "playlistType": "ALBUM",
+      "status": "ACTIVE"
+    },
+    {
+      "author": [],
+      "authorId": "0dc689f7-984a-4f4e-9475-f27f720b23d9",
+      "createdAt": "2023-03-03T07:13:38.068Z",
+      "description": "string",
+      "id": 8,
+      "imageUrl": "https://public-med-bucket-v2.s3.ap-southeast-1.amazonaws.com/090dc296-456f-4596-b534-88b037037618-image.jpeg",
+      "isPublic": "PUBLIC",
+      "lastUpdatedAt": "2023-07-23T08:32:17.278Z",
+      "name": "string",
+      "playlistType": "ALBUM",
+      "status": "ACTIVE"
+    }
+  ],
+  "status": "ACTIVE"
+}

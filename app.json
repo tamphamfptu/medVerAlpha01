@@ -1,0 +1,41 @@
+{
+  "expo": {
+    "name": "med-app",
+    "slug": "med-app",
+    "version": "1.1.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "splash": {
+      "icon": "./assets/images/icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "bundleIdentifier": "med-app",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.med.medapp",
+      "versionCode": 2,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "expo-camera": {
+      "cameraPermission": "Allow $(med-app) to access your camera."
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a241cd0e-c379-42e9-9a88-510cf079d74b"
+      }
+    }
+  }
+}
