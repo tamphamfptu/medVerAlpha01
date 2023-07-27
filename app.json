@@ -1,5 +1,6 @@
 {
   "expo": {
+    "owner": "mediatation",
     "name": "med-app",
     "slug": "med-app",
     "version": "1.1.0",
@@ -13,10 +14,12 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": ["**/*"],
+    "assetBundlePatterns": [
+      "**/*"
+    ],
     "ios": {
-      "bundleIdentifier": "med-app",
-      "buildNumber": "1.0.0"
+      "bundleIdentifier": "fptu.capstone.mediatation",
+      "buildNumber": "1.0.1"
     },
     "android": {
       "package": "com.med.medapp",
@@ -34,7 +37,7 @@
     },
     "extra": {
       "eas": {
-        "projectId": "a241cd0e-c379-42e9-9a88-510cf079d74b"
+        "projectId": "6423fa33-a785-4b51-b178-fa3012a7c1f0"
       }
     }
   }
